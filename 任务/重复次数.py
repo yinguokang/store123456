@@ -1,0 +1,10 @@
+list=[1,4,7,5,8,2,1,3,4,5,9,7,6,1,10]
+print("1出现的次数：",list.count(1))
+print("4出现的次数：",list.count(4))
+print("7出现的次数：",list.count(7))
+print("5出现的次数：",list.count(5))
+print("8出现的次数：",list.count(8))
+print("2出现的次数：",list.count(2))
+print("3出现的次数：",list.count(3))
+print("6出现的次数：",list.count(6))
+print("9出现的次数：",list.count(9))
